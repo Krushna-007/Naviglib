@@ -1,12 +1,8 @@
-<p align="center">
-  <img width="70%" src="https://github.com/ashishgopalhattimare/PathMarkAR/blob/master/Extras/logo.png">
-</p>
-
-# PathMarkAR
+# Naviglib
 
 An augmented reality indoor navigation app made using Google ARCore and Unity
 
-*This was made at **NITK Surathkal** for **HackVerse** by team **Array[] yaar;***
+*This was made at **Charusat University** for **SGP** by team **22AIML028, 22AIML042***
 
 
 
@@ -71,24 +67,6 @@ Businesses who would like to be promoted can have their places suggested when th
 Once the destination is close enough, Google Maps does not provide the best user experience. In that case an indoor AR application seems more suited to the cause.
 
 
-
-## Demos
-
-<p align="center">
-  <img src="https://github.com/ashishgopalhattimare/PathMarkAR/blob/master/Extras/plane-detect-marker-place.gif" width="40%">
-</p>
-<p align="center">
-  <i>Demo of the plane detection and placing markers on the screen (2.5x speed)</i>
-</p>
-
-<p align="center">
-<img src="https://github.com/ashishgopalhattimare/PathMarkAR/blob/master/Extras/place-marker-rabbit.gif" width="40%"> <img src="https://github.com/ashishgopalhattimare/PathMarkAR/blob/master/Extras/rabbit-running.gif" width="40%"> 
-</p>
-<p align="center">
-  <i>Placing markers ➡ Saving markers ➡ Character guiding user</i>
-</p>
-
-
 ## Status of the Project
 
 #### What Works
@@ -112,45 +90,3 @@ Other user interface and user experience improvements can be implemented to make
 * [ARCore](https://developers.google.com/ar) - A software development kit developed by Google that allows for augmented reality applications to be built
 * [Microsoft Visual Studio](https://visualstudio.microsoft.com/) - Integrated development environment for C# from Microsoft
 * [Visual Studio Code](https://code.visualstudio.com) - An open source code editor developed by Microsoft 
-
-
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-
-
-## Versioning
-
-We used [GitHub](http://www.github.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/ashishgopalhattimare/PathMarkAR/tags). 
-
-
-
-## Authors
-
-* **Ashish Gopal Hattimare** - *Lead Developer* - [ashishgopalhattimare](https://github.com/ashishgopalhattimare)
-* **Rajat Dipta Biswas** - *Developer and Designer* - [rajatdiptabiswas](https://github.com/rajatdiptabiswas)
-* **Akash Yadav** - *Tester and Technical Lead* - [aky91](https://github.com/aky91)
-
-See also the list of [contributors](https://github.com/ashishgopalhattimare/PathMarkAR/contributors) who participated in this project.
-
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
-
-## Acknowledgments
-
-* raywenderlich.com | [Unity for Beginners](https://www.raywenderlich.com/unity/learn)
-* andreasjakl.com | [Getting Started with Google ARCore, Part 2: Visualizing Planes & Placing Objects](https://www.andreasjakl.com/getting-started-with-google-arcore-part-2-visualizing-planes-placing-objects/)
-* Google Developers | [Quickstart for Android](https://developers.google.com/ar/develop/unity/quickstart-android)
-* Google Developers | [Unity API Reference for ARCore](https://developers.google.com/ar/reference/unity/)
-* Unity Asset Store | [White Rabbit by Niwashi Games](https://assetstore.unity.com/packages/3d/characters/animals/white-rabbit-138709)
-* Unity Asset Store | [Vectrosity by Starscene Software](https://assetstore.unity.com/packages/tools/particles-effects/vectrosity-82)
-* [Unity3D Documentations](https://docs.unity3d.com/Manual/index.html)
-* [Unity Answers](https://answers.unity.com/index.html)
-* [StackOverflow](https://stackoverflow.com)
